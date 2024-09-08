@@ -4,7 +4,7 @@
 
 ### Who am I?
 
-I am a Computing and Information Systems undergraduate with a focus on DevOps, cloud engineering, and full-stack web development. With hands-on experience through academic projects and courses, I excel in problem-solving, collaboration, and continuous learning. I am eager to grow my skills and contribute to impactful tech solutions.
+I am a Computing and Information Systems undergraduate with a focus on DevOps, cloud engineering, and full-stack development. With hands-on experience through academic projects and courses, I excel in problem-solving, collaboration, and continuous learning. I am eager to grow my skills and contribute to impactful tech solutions.
 
 ### My stats:
 
