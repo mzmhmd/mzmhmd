@@ -8,7 +8,7 @@ I am a Computing and Information Systems undergraduate with a focus on DevOps, c
 
 ### My stats:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mzmhmd&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mzmhmd&label=Profile%20views&color=0e75b6&style=flat" alt="mzmhmd" /> </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzmhmd&&exclude_repo=mzmhmd&layout=compact&theme=dracula" alt="languages"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mzmhmd&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
