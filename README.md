@@ -4,7 +4,7 @@
 
 ### Who am I?
 
-I am a Computing and Information Systems undergraduate with a focus on DevOps, cloud engineering, and full-stack development. With hands-on experience through academic projects and courses, I excel in problem-solving, collaboration, and continuous learning. I am eager to grow my skills and contribute to impactful tech solutions.
+I'm a Computing and Information Systems undergraduate with a knack for full-stack web development, specializing in the MERN stack—basically, I turn coffee into code and ideas into dynamic web apps. From tackling complex problems to collaborating like a pro, I’ve honed my skills through hands-on projects and coursework. Always curious and ready to learn, I'm on a mission to build tech solutions that leave a lasting impact (and maybe a smile too)!
 
 ### My stats:
 
