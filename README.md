@@ -11,7 +11,7 @@ I'm a Computing and Information Systems undergraduate with a knack for full-stac
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzmhmd&label=Profile%20views&color=0e75b6&style=flat" alt="mzmhmd" /> </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzmhmd&&exclude_repo=mzmhmd&layout=compact&theme=dracula" alt="languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzmhmd&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzmhmd&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />-->
 
 ### Connect with me:
 <p align="left">
