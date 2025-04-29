@@ -6,13 +6,6 @@
 
 I'm a Computing and Information Systems undergraduate with a knack for full-stack web development, specializing in the MERN stack—basically, I turn coffee into code and ideas into dynamic web apps. From tackling complex problems to collaborating like a pro, I’ve honed my skills through hands-on projects and coursework. Always curious and ready to learn, I'm on a mission to build tech solutions that leave a lasting impact (and maybe a smile too)!
 
-### My stats:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mzmhmd&label=Profile%20views&color=0e75b6&style=flat" alt="mzmhmd" /> </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzmhmd&&exclude_repo=mzmhmd&layout=compact&theme=dracula" alt="languages"/>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzmhmd&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />-->
-
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-zakeer-muhammad/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="muhammad zakeer muhammad" height="50" width="50" /></a>
