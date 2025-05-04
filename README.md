@@ -22,6 +22,7 @@ I'm a Computing and Information Systems undergraduate with a knack for full-stac
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" height="50" width="50" /></a>
 <a href="https://www.php.net/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" height="50" width="50" /></a>
 <a href="https://www.figma.com/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" height="50" width="50" /></a>
+<a href="https://react.dev/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="50" width="50" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="50" width="50" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height="50" width="50" /></a>
 <a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTML" height="50" width="50" /></a>
