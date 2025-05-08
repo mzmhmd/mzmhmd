@@ -26,4 +26,5 @@ I'm a Computing and Information Systems undergraduate with a knack for full-stac
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="50" width="50" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height="50" width="50" /></a>
 <a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTML" height="50" width="50" /></a>
+<a href="https://www.java.com/en/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="HTML" height="50" width="50" /></a>
 </p>
