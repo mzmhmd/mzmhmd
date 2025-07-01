@@ -31,16 +31,15 @@ I'm a Computing and Information Systems undergraduate with a knack for full-stac
 </p>
 
 ### My Statistics:
-<p align="left">
-<table align="left">
-<tr border="none">
-<td width="50%" align="left">
-<img  align="left"  src="https://github-readme-stats.vercel.app/api?username=mzmhmd&theme=dark&show_icons=true&count_private=true" />
-<br></br>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mzmhmd&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="left">
-<img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mzmhmd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mzmhmd&theme=dark&show_icons=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzmhmd&theme=dark&hide_border=false" />
+    </td>
+  </tr>
 </table>
+
