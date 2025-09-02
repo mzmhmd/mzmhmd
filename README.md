@@ -35,9 +35,6 @@ I'm a Computing and Information Systems undergraduate with a knack for full-stac
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mzmhmd&theme=dark&show_icons=true&count_private=true" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzmhmd&theme=dark&hide_border=false" />
     </td>
   </tr>
