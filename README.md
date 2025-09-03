@@ -30,13 +30,3 @@ I'm a Computing and Information Systems undergraduate with a knack for full-stac
 <a href="https://www.java.com/en/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="HTML" height="50" width="50" /></a>
 </p>
 
-### My Statistics:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzmhmd&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
